@@ -20,7 +20,10 @@ st.title("👥 Guests Dashboard")
 # --------------------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_excel("guests.xlsx")
+    df = pd.read_excel(
+        "guests.xlsx",
+        sheet_name="Guests"
+    )
     return df
 
 
@@ -42,14 +45,13 @@ age_matches = [
 
 # Check if the Age column exists
 if not age_matches:
-    st.error("Could not find an Age column in your Excel file.")
+    st.error("Could not find an Age column in the Guests sheet.")
     st.write("Available columns:", df.columns.tolist())
     st.stop()
 
 AGE_COLUMN = age_matches[0]
 
 # Convert age values to numbers
-# Invalid or empty values will become NaN
 df[AGE_COLUMN] = pd.to_numeric(
     df[AGE_COLUMN],
     errors="coerce"
@@ -63,7 +65,7 @@ df[AGE_COLUMN] = pd.to_numeric(
 # Total number of guests
 total_guests = len(df)
 
-# Count only guests with valid age values
+# Identify valid ages
 valid_ages = df[AGE_COLUMN].notna()
 
 # Adults: 18 years old or older
