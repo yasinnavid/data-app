@@ -37,6 +37,7 @@ section[data-testid="stSidebar"] div[data-baseweb="select"] input,
 section[data-testid="stSidebar"] div[data-baseweb="input"] input { color:#003B5C !important; }
 section[data-testid="stSidebar"] button { border-radius:10px; }
 section[data-testid="stSidebar"] div[data-testid="stDateInput"] input { color:#003B5C !important; background:#FFFFFF !important; }
+section[data-testid="stSidebar"] button p { color: black !important; }
 </style>
 """, unsafe_allow_html=True)
 
