@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 
@@ -28,10 +29,31 @@ df = load_data()
 
 # --------------------------------------------------
 # SETTINGS
-# Change these column names to match your Excel file
 # --------------------------------------------------
 
-AGE_COLUMN = "Age"
+# Remove unnecessary spaces from column names
+df.columns = df.columns.astype(str).str.strip()
+
+# Find the Age column regardless of capitalization
+age_matches = [
+    col for col in df.columns
+    if col.lower() == "age"
+]
+
+# Check if the Age column exists
+if not age_matches:
+    st.error("Could not find an Age column in your Excel file.")
+    st.write("Available columns:", df.columns.tolist())
+    st.stop()
+
+AGE_COLUMN = age_matches[0]
+
+# Convert age values to numbers
+# Invalid or empty values will become NaN
+df[AGE_COLUMN] = pd.to_numeric(
+    df[AGE_COLUMN],
+    errors="coerce"
+)
 
 
 # --------------------------------------------------
@@ -41,14 +63,20 @@ AGE_COLUMN = "Age"
 # Total number of guests
 total_guests = len(df)
 
+# Count only guests with valid age values
+valid_ages = df[AGE_COLUMN].notna()
+
 # Adults: 18 years old or older
-adults = len(df[df[AGE_COLUMN] >= 18])
+adults = len(df[valid_ages & (df[AGE_COLUMN] >= 18)])
 
 # Minors: under 18 years old
-minors = len(df[df[AGE_COLUMN] < 18])
+minors = len(df[valid_ages & (df[AGE_COLUMN] < 18)])
 
 # Minors below 5 years old
-minors_below_5 = len(df[df[AGE_COLUMN] < 5])
+minors_below_5 = len(df[valid_ages & (df[AGE_COLUMN] < 5)])
+
+# Guests with missing or invalid ages
+missing_ages = len(df[~valid_ages])
 
 
 # --------------------------------------------------
@@ -79,6 +107,17 @@ with col4:
     st.metric(
         label="👶 Children Below 5",
         value=f"{minors_below_5:,}"
+    )
+
+
+# --------------------------------------------------
+# DATA QUALITY
+# --------------------------------------------------
+
+if missing_ages > 0:
+    st.warning(
+        f"{missing_ages} guest(s) have missing or invalid age values "
+        "and were excluded from the age calculations."
     )
 
 
