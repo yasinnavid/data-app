@@ -69,7 +69,7 @@ total_guests = len(df)
 valid_ages = df[AGE_COLUMN].notna()
 
 # Adults: 18 years old or older
-adults = len(df[type])
+adults = len(df[valid_ages])
 
 # Minors: under 18 years old
 minors = len(df[valid_ages & (df[AGE_COLUMN] < 18)])
