@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Country,Category,Product,Sales_Channel,Customer_Segment,Salesperson,Units_Sold,Unit_Price,Discount_Rate,Sales,Cost,Profit
+ORD-0001,2024-08-16,Europe,Germany,Accessories,Echo Headset,Online,Government,Ava Morgan,5,192.11,0.1,864.5,425.55,438.95
+ORD-0002,2025-06-01,Europe,Germany,Office,ErgoDesk,Direct Sales,Small Business,Oliver Kim,20,629.21,0.15,10696.57,7611.6,3084.97
+ORD-0003,2025-12-15,Latin America,Chile,Technology,NovaBook Pro,Online,Consumer,Emma Garcia,14,1432.67,0,20057.38,12496.4,7560.98
+ORD-0004,2024-09-27,Europe,Italy,Accessories,Arc Mouse,Online,Enterprise,Lucas Martin,2,66.09,0.05,125.57,42.82,82.75
+ORD-0005,2025-11-08,Latin America,Argentina,Technology,NovaBook Pro,Online,Government,Maya Patel,8,1558.19,0,12465.52,7934.64,4530.88
+ORD-0006,2024-12-29,Middle East & Africa,South Africa,Office,CloudChair,Online,Small Business,Noah Williams,7,453.24,0.15,2696.78,1676.36,1020.42
+ORD-0007,2025-10-17,North America,Canada,Software,SecureCloud,Retail,Consumer,Lucas Martin,23,402.24,0,9251.52,1672.79,7578.73
+ORD-0008,2025-08-03,Middle East & Africa,South Africa,Technology,NovaBook Pro,Direct Sales,Small Business,Maya Patel,23,1425.26,0.05,31141.93,21904.97,9236.96
+ORD-0009,2025-08-21,North America,United States,Accessories,Arc Mouse,Retail,Government,Liam Carter,14,68.17,0,954.38,294.56,659.82
+ORD-0010,2025-10-04,Europe,Sweden,Technology,NovaBook Pro,Direct Sales,Government,Oliver Kim,6,1563.7,0,9382.2,5546.94,3835.26
+ORD-0011,2024-04-27,Latin America,Chile,Technology,Pulse Monitor,Partner,Consumer,Maya Patel,22,340.06,0.15,6359.12,3917.98,2441.14
+ORD-0012,2024-09-26,Middle East & Africa,Saudi Arabia,Software,Insight Suite,Partner,Small Business,Sofia Rossi,17,557.64,0,9479.88,1640.84,7839.04
+ORD-0013,2024-11-27,Asia Pacific,Australia,Technology,Pulse Monitor,Retail,Consumer,Noah Williams,16,286.41,0,4582.56,2912.48,1670.08
+ORD-0014,2025-05-12,Latin America,Brazil,Technology,Pulse Monitor,Retail,Government,Sofia Rossi,3,345.84,0,1037.52,519.81,517.71
+ORD-0015,2025-07-06,Asia Pacific,South Korea,Software,Insight Suite,Partner,Government,Oliver Kim,24,550.15,0.05,12543.42,2377.2,10166.22
+ORD-0016,2024-12-12,Europe,France,Office,ErgoDesk,Online,Consumer,Ava Morgan,1,705.61,0,705.61,382.17,323.44
+ORD-0017,2024-03-13,North America,United States,Technology,Orbit Tablet,Retail,Government,Noah Williams,17,696.67,0,11843.39,7580.3,4263.09
+ORD-0018,2024-04-09,Middle East & Africa,Kenya,Office,ErgoDesk,Online,Consumer,Ava Morgan,22,684.22,0.05,14300.2,8623.56,5676.64
+ORD-0019,2024-07-15,Middle East & Africa,South Africa,Technology,NovaBook Pro,Partner,Government,Noah Williams,7,1489.52,0,10426.64,6235.39,4191.25
+ORD-0020,2025-10-29,Europe,Spain,Technology,NovaBook Pro,Retail,Government,Oliver Kim,18,1576.45,0,28376.1,17818.02,10558.08
+ORD-0021,2024-06-17,Middle East & Africa,Saudi Arabia,Software,Insight Suite,Partner,Government,Oliver Kim,13,478.62,0.05,5910.96,1235.91,4675.05
+ORD-0022,2024-02-29,North America,United States,Accessories,Echo Headset,Online,Consumer,Oliver Kim,19,192.09,0,3649.71,1492.45,2157.26
+ORD-0023,2024-03-23,Latin America,Argentina,Technology,Pulse Monitor,Direct Sales,Consumer,Noah Williams,6,289.45,0,1736.7,978.0,758.7
+ORD-0024,2025-11-04,Latin America,Brazil,Technology,Orbit Tablet,Retail,Enterprise,Noah Williams,19,743.79,0,14132.01,8097.61,6034.4
+ORD-0025,2025-10-22,Asia Pacific,India,Office,Focus Lamp,Online,Government,Liam Carter,10,116.32,0,1163.2,556.8,606.4
+ORD-0026,2024-09-28,Europe,Greece,Office,Focus Lamp,Partner,Enterprise,Sofia Rossi,5,127.26,0,636.3,276.75,359.55
+ORD-0027,2025-07-21,Middle East & Africa,South Africa,Technology,Pulse Monitor,Partner,Consumer,Liam Carter,10,342.97,0,3429.7,1637.9,1791.8
+ORD-0028,2025-09-11,Latin America,Argentina,Accessories,Swift Keyboard,Partner,Government,Maya Patel,7,101.03,0.15,601.13,266.56,334.57
+ORD-0029,2024-02-15,Europe,Germany,Software,SecureCloud,Retail,Government,Emma Garcia,1,384.82,0,384.82,67.69,317.13
+ORD-0030,2025-12-08,Latin America,Brazil,Technology,NovaBook Pro,Retail,Government,Sofia Rossi,5,1492.22,0.1,6714.99,4869.1,1845.89
+ORD-0031,2025-01-01,Europe,Italy,Accessories,Echo Headset,Direct Sales,Small Business,Noah Williams,7,190.15,0,1331.05,595.07,735.98
+ORD-0032,2024-07-02,North America,United States,Software,Insight Suite,Retail,Enterprise,Sofia Rossi,24,574.55,0.05,13099.74,2397.84,10701.9
+ORD-0033,2024-08-15,Europe,Spain,Technology,Orbit Tablet,Retail,Small Business,Ava Morgan,7,779.99,0,5459.93,3039.61,2420.32
+ORD-0034,2024-03-12,North America,Canada,Accessories,Swift Keyboard,Partner,Consumer,Liam Carter,9,94.07,0.15,719.64,356.67,362.97
+ORD-0035,2024-04-21,Asia Pacific,Australia,Accessories,Echo Headset,Direct Sales,Consumer,Emma Garcia,20,181.24,0,3624.8,1713.4,1911.4
+ORD-0036,2025-12-26,Latin America,Argentina,Accessories,Echo Headset,Retail,Enterprise,Emma Garcia,14,165.66,0.1,2087.32,1228.78,858.54
+ORD-0037,2024-11-17,Europe,Netherlands,Accessories,Arc Mouse,Partner,Government,Lucas Martin,22,67.56,0,1486.32,482.02,1004.3
+ORD-0038,2025-03-06,Middle East & Africa,South Africa,Office,ErgoDesk,Partner,Government,Ava Morgan,22,753.49,0,16576.78,8906.48,7670.3
+ORD-0039,2025-08-16,Asia Pacific,Singapore,Office,CloudChair,Retail,Government,Sofia Rossi,20,451.9,0.05,8586.1,4648.0,3938.1
+ORD-0040,2024-08-28,Europe,Italy,Accessories,Echo Headset,Online,Consumer,Noah Williams,22,176.78,0,3889.16,1903.0,1986.16
+ORD-0041,2025-10-06,Middle East & Africa,United Arab Emirates,Software,SecureCloud,Direct Sales,Small Business,Sofia Rossi,19,373.97,0.05,6750.16,1383.96,5366.2
+ORD-0042,2024-08-12,Europe,Sweden,Technology,Orbit Tablet,Online,Small Business,Liam Carter,6,778.19,0.05,4435.68,2684.4,1751.28
+ORD-0043,2025-06-27,Middle East & Africa,Saudi Arabia,Software,TeamFlow,Direct Sales,Government,Sofia Rossi,18,249.38,0.05,4264.4,869.58,3394.82
+ORD-0044,2025-10-14,Middle East & Africa,Kenya,Accessories,Echo Headset,Retail,Enterprise,Oliver Kim,9,193.17,0.15,1477.75,751.14,726.61
+ORD-0045,2024-10-05,Europe,Netherlands,Accessories,Echo Headset,Retail,Small Business,Emma Garcia,11,177.11,0,1948.21,920.26,1027.95
+ORD-0046,2025-02-28,North America,Mexico,Office,ErgoDesk,Retail,Government,Emma Garcia,14,670.6,0,9388.4,5517.68,3870.72
+ORD-0047,2024-01-07,Latin America,Brazil,Software,SecureCloud,Retail,Government,Noah Williams,12,382.09,0.05,4355.83,840.6,3515.23
+ORD-0048,2025-02-02,Asia Pacific,India,Software,Insight Suite,Retail,Government,Sofia Rossi,11,547.96,0.15,5123.43,1101.21,4022.22
+ORD-0049,2025-07-31,Latin America,Brazil,Software,TeamFlow,Direct Sales,Small Business,Ava Morgan,22,222.1,0,4886.2,1023.22,3862.98
+ORD-0050,2025-04-10,Asia Pacific,India,Accessories,Echo Headset,Direct Sales,Enterprise,Liam Carter,11,177.75,0,1955.25,960.08,995.17
+ORD-0051,2024-08-17,Middle East & Africa,United Arab Emirates,Technology,Orbit Tablet,Online,Small Business,Noah Williams,21,672.28,0,14117.88,9702.21,4415.67
+ORD-0052,2024-05-09,Europe,Greece,Office,ErgoDesk,Direct Sales,Enterprise,Lucas Martin,16,716.65,0,11466.4,6385.44,5080.96
+ORD-0053,2024-11-14,North America,Mexico,Technology,NovaBook Pro,Direct Sales,Government,Noah Williams,4,1501.82,0.1,5406.55,3940.36,1466.19
+ORD-0054,2025-12-14,Europe,Greece,Office,ErgoDesk,Online,Enterprise,Emma Garcia,10,741.24,0,7412.4,4009.4,3403.0
+ORD-0055,2025-03-06,Asia Pacific,Japan,Accessories,Echo Headset,Direct Sales,Small Business,Emma Garcia,16,169.4,0.15,2303.84,1410.24,893.6
+ORD-0056,2025-07-05,North America,Mexico,Accessories,Arc Mouse,Partner,Enterprise,Noah Williams,16,62.8,0.1,904.32,355.2,549.12
+ORD-0057,2025-04-20,Europe,Italy,Software,Insight Suite,Direct Sales,Enterprise,Sofia Rossi,19,541.87,0,10295.53,1803.67,8491.86
+ORD-0058,2024-12-14,Middle East & Africa,Saudi Arabia,Accessories,Swift Keyboard,Online,Small Business,Liam Carter,9,104.13,0,937.17,365.49,571.68
+ORD-0059,2025-07-22,North America,Mexico,Software,SecureCloud,Direct Sales,Consumer,Liam Carter,8,412.67,0.05,3136.29,579.04,2557.25
+ORD-0060,2024-09-06,Asia Pacific,Australia,Software,TeamFlow,Partner,Government,Lucas Martin,10,252.67,0.1,2274.03,449.1,1824.93
+ORD-0061,2024-09-14,Asia Pacific,India,Accessories,Swift Keyboard,Retail,Small Business,Noah Williams,8,89.69,0,717.52,304.24,413.28
+ORD-0062,2024-07-17,Middle East & Africa,South Africa,Accessories,Echo Headset,Retail,Enterprise,Ava Morgan,10,173.79,0,1737.9,798.1,939.8
+ORD-0063,2024-05-09,Europe,Greece,Accessories,Arc Mouse,Partner,Government,Oliver Kim,21,67.81,0,1424.01,447.09,976.92
+ORD-0064,2024-09-15,Middle East & Africa,South Africa,Office,ErgoDesk,Online,Consumer,Sofia Rossi,16,641.12,0.05,9745.02,5980.96,3764.06
+ORD-0065,2024-09-11,North America,Mexico,Accessories,Echo Headset,Retail,Government,Oliver Kim,4,185.69,0.1,668.48,329.36,339.12
+ORD-0066,2025-08-05,Middle East & Africa,South Africa,Software,SecureCloud,Retail,Small Business,Maya Patel,20,363.5,0,7270.0,1504.8,5765.2
+ORD-0067,2025-07-19,Europe,France,Office,ErgoDesk,Direct Sales,Enterprise,Ava Morgan,3,646.89,0.15,1649.57,1173.63,475.94
+ORD-0068,2025-04-09,North America,Canada,Accessories,Arc Mouse,Retail,Government,Liam Carter,3,65.56,0.15,167.18,67.41,99.77
+ORD-0069,2024-05-25,Latin America,Argentina,Office,CloudChair,Partner,Government,Liam Carter,3,400.73,0.1,1081.97,726.6,355.37
+ORD-0070,2025-05-27,Middle East & Africa,South Africa,Software,SecureCloud,Direct Sales,Enterprise,Maya Patel,18,397.32,0,7151.76,1210.14,5941.62
+ORD-0071,2025-08-12,Europe,Germany,Office,Focus Lamp,Partner,Consumer,Sofia Rossi,19,127.67,0.15,2061.87,1067.04,994.83
+ORD-0072,2025-08-22,Middle East & Africa,Kenya,Accessories,Echo Headset,Direct Sales,Enterprise,Emma Garcia,14,188.45,0,2638.3,1163.96,1474.34
+ORD-0073,2024-12-03,Asia Pacific,Singapore,Technology,NovaBook Pro,Online,Government,Liam Carter,14,1535.17,0.05,20417.76,12718.58,7699.18
+ORD-0074,2025-02-17,Asia Pacific,Singapore,Accessories,Echo Headset,Direct Sales,Government,Ava Morgan,17,195.3,0.1,2988.09,1324.47,1663.62
+ORD-0075,2025-05-25,North America,Mexico,Accessories,Arc Mouse,Retail,Enterprise,Oliver Kim,21,62.52,0,1312.92,421.89,891.03
+ORD-0076,2025-09-15,Middle East & Africa,United Arab Emirates,Technology,Pulse Monitor,Direct Sales,Consumer,Noah Williams,8,329.21,0,2633.68,1346.96,1286.72
+ORD-0077,2024-06-06,Europe,Spain,Technology,Pulse Monitor,Partner,Government,Oliver Kim,16,343.02,0.15,4665.07,2687.2,1977.87
+ORD-0078,2024-05-28,Middle East & Africa,Saudi Arabia,Software,TeamFlow,Retail,Consumer,Maya Patel,13,229.95,0.15,2540.95,601.38,1939.57
+ORD-0079,2024-10-16,Middle East & Africa,South Africa,Accessories,Echo Headset,Direct Sales,Small Business,Oliver Kim,24,176.35,0.15,3597.54,2019.84,1577.7
+ORD-0080,2025-07-19,Latin America,Colombia,Accessories,Swift Keyboard,Retail,Government,Noah Williams,18,94.57,0,1702.26,752.04,950.22
+ORD-0081,2025-04-29,Middle East & Africa,United Arab Emirates,Accessories,Arc Mouse,Retail,Government,Ava Morgan,23,68.37,0.15,1336.63,482.77,853.86
+ORD-0082,2025-03-26,North America,Mexico,Accessories,Echo Headset,Retail,Government,Sofia Rossi,4,184.53,0.15,627.4,331.08,296.32
+ORD-0083,2025-09-30,Europe,Spain,Accessories,Swift Keyboard,Direct Sales,Enterprise,Oliver Kim,23,94.95,0,2183.85,861.58,1322.27
+ORD-0084,2025-10-08,Latin America,Brazil,Technology,NovaBook Pro,Online,Government,Liam Carter,22,1601.07,0.15,29940.01,21852.38,8087.63
+ORD-0085,2024-11-02,Europe,Spain,Office,Focus Lamp,Partner,Enterprise,Emma Garcia,1,106.86,0,106.86,54.78,52.08
+ORD-0086,2025-11-29,North America,United States,Software,TeamFlow,Retail,Government,Sofia Rossi,6,228.96,0.05,1305.07,259.26,1045.81
+ORD-0087,2024-09-18,North America,Canada,Accessories,Swift Keyboard,Retail,Consumer,Oliver Kim,22,87.58,0,1926.76,904.86,1021.9
+ORD-0088,2025-03-10,Asia Pacific,South Korea,Accessories,Arc Mouse,Direct Sales,Government,Liam Carter,23,60.14,0,1383.22,511.98,871.24
+ORD-0089,2024-10-29,North America,Canada,Accessories,Arc Mouse,Direct Sales,Enterprise,Ava Morgan,23,60.7,0.15,1186.69,520.26,666.43
+ORD-0090,2024-08-23,Latin America,Brazil,Software,SecureCloud,Partner,Small Business,Liam Carter,20,421.35,0,8427.0,1369.8,7057.2
+ORD-0091,2025-08-16,Europe,Italy,Software,Insight Suite,Partner,Government,Sofia Rossi,12,554.57,0,6654.84,1096.32,5558.52
+ORD-0092,2025-05-28,North America,United States,Accessories,Arc Mouse,Partner,Enterprise,Liam Carter,9,67.34,0.05,575.76,185.85,389.91
+ORD-0093,2025-11-23,Middle East & Africa,United Arab Emirates,Office,ErgoDesk,Partner,Consumer,Emma Garcia,24,717.32,0.1,15494.11,9375.6,6118.51
+ORD-0094,2025-01-12,Europe,Italy,Technology,Orbit Tablet,Partner,Consumer,Noah Williams,22,770.26,0.05,16098.43,9309.3,6789.13
+ORD-0095,2024-08-14,Middle East & Africa,United Arab Emirates,Accessories,Arc Mouse,Partner,Government,Liam Carter,21,57.82,0.15,1032.09,466.2,565.89
+ORD-0096,2025-05-19,North America,United States,Technology,Orbit Tablet,Direct Sales,Government,Lucas Martin,4,676.4,0,2705.6,1832.4,873.2
+ORD-0097,2025-11-01,Latin America,Colombia,Office,CloudChair,Online,Enterprise,Noah Williams,4,467.3,0,1869.2,947.64,921.56
+ORD-0098,2024-04-11,Middle East & Africa,Kenya,Office,CloudChair,Partner,Consumer,Emma Garcia,22,427.19,0.15,7988.45,5400.12,2588.33
+ORD-0099,2024-04-03,Asia Pacific,Australia,Technology,Orbit Tablet,Online,Enterprise,Noah Williams,22,692.94,0,15244.68,9773.5,5471.18
+ORD-0100,2025-07-21,North America,Mexico,Office,ErgoDesk,Partner,Small Business,Ava Morgan,7,705.35,0,4937.45,2882.04,2055.41
+ORD-0101,2024-09-13,Asia Pacific,Australia,Office,Focus Lamp,Online,Enterprise,Noah Williams,6,108.33,0,649.98,331.56,318.42
+ORD-0102,2024-09-28,Latin America,Chile,Technology,NovaBook Pro,Online,Government,Oliver Kim,2,1370.76,0,2741.52,1848.7,892.82
+ORD-0103,2025-05-30,Asia Pacific,South Korea,Technology,Orbit Tablet,Partner,Government,Ava Morgan,8,798.54,0.15,5430.07,3287.36,2142.71
+ORD-0104,2025-12-03,Europe,Spain,Software,SecureCloud,Online,Enterprise,Sofia Rossi,4,397.04,0,1588.16,299.12,1289.04
+ORD-0105,2025-10-10,Europe,France,Accessories,Arc Mouse,Partner,Government,Emma Garcia,19,63.84,0.1,1091.66,395.96,695.7
+ORD-0106,2025-10-28,Europe,Sweden,Technology,Pulse Monitor,Retail,Government,Lucas Martin,18,329.89,0.05,5641.12,2992.5,2648.62
+ORD-0107,2024-04-07,Middle East & Africa,Kenya,Software,TeamFlow,Retail,Government,Liam Carter,11,241.28,0,2654.08,513.04,2141.04
+ORD-0108,2025-03-18,Europe,Sweden,Technology,NovaBook Pro,Online,Enterprise,Liam Carter,4,1549.93,0,6199.72,3674.28,2525.44
+ORD-0109,2024-02-22,Middle East & Africa,South Africa,Software,TeamFlow,Retail,Small Business,Oliver Kim,10,249.62,0.1,2246.58,448.1,1798.48
+ORD-0110,2025-01-11,North America,United States,Accessories,Arc Mouse,Online,Enterprise,Ava Morgan,4,66.5,0.05,252.7,86.08,166.62
+ORD-0111,2024-12-25,North America,Canada,Accessories,Swift Keyboard,Direct Sales,Consumer,Sofia Rossi,1,90.85,0.15,77.22,37.78,39.44
+ORD-0112,2025-03-05,Europe,Germany,Office,CloudChair,Partner,Consumer,Ava Morgan,15,424.92,0.15,5417.73,3443.4,1974.33
+ORD-0113,2024-03-24,North America,United States,Technology,Pulse Monitor,Direct Sales,Government,Maya Patel,9,312.67,0.1,2532.63,1537.83,994.8
+ORD-0114,2025-03-16,North America,Mexico,Technology,Orbit Tablet,Partner,Consumer,Noah Williams,4,703.19,0.05,2672.12,1785.72,886.4
+ORD-0115,2024-11-04,Middle East & Africa,United Arab Emirates,Technology,NovaBook Pro,Partner,Consumer,Ava Morgan,7,1556.53,0,10895.71,6757.73,4137.98
+ORD-0116,2025-01-24,Middle East & Africa,Kenya,Office,ErgoDesk,Partner,Consumer,Emma Garcia,18,721.3,0.15,11035.89,7125.48,3910.41
+ORD-0117,2024-03-20,Europe,Spain,Technology,Orbit Tablet,Direct Sales,Enterprise,Liam Carter,11,745.31,0.15,6968.65,4846.05,2122.6
+ORD-0118,2025-09-24,Middle East & Africa,United Arab Emirates,Accessories,Echo Headset,Direct Sales,Consumer,Noah Williams,15,195.55,0,2933.25,1315.5,1617.75
+ORD-0119,2024-11-13,Middle East & Africa,Kenya,Technology,Orbit Tablet,Online,Consumer,Noah Williams,24,711.29,0,17070.96,10250.88,6820.08
+ORD-0120,2024-04-15,Asia Pacific,Singapore,Office,ErgoDesk,Online,Small Business,Oliver Kim,5,660.41,0,3302.05,1896.5,1405.55
+ORD-0121,2024-11-19,Middle East & Africa,Kenya,Accessories,Arc Mouse,Partner,Enterprise,Ava Morgan,5,62.49,0.15,265.58,106.15,159.43
+ORD-0122,2025-04-17,Asia Pacific,South Korea,Technology,Orbit Tablet,Online,Consumer,Emma Garcia,15,667.82,0,10017.3,6436.65,3580.65
+ORD-0123,2025-10-29,Middle East & Africa,United Arab Emirates,Software,TeamFlow,Online,Government,Liam Carter,7,236.23,0,1653.61,318.71,1334.9
+ORD-0124,2024-09-10,Asia Pacific,Japan,Office,ErgoDesk,Retail,Enterprise,Lucas Martin,23,685.14,0.1,14182.4,9033.94,5148.46
+ORD-0125,2025-11-26,Asia Pacific,India,Software,SecureCloud,Online,Enterprise,Liam Carter,20,362.88,0,7257.6,1444.8,5812.8
+ORD-0126,2025-11-03,Latin America,Colombia,Accessories,Swift Keyboard,Retail,Enterprise,Maya Patel,20,103.99,0.1,1871.82,774.8,1097.02
+ORD-0127,2025-07-26,Middle East & Africa,Saudi Arabia,Technology,Orbit Tablet,Online,Government,Lucas Martin,13,755.06,0,9815.78,5549.18,4266.6
+ORD-0128,2024-08-07,Europe,Italy,Accessories,Echo Headset,Retail,Small Business,Liam Carter,11,199.72,0,2196.92,913.88,1283.04
+ORD-0129,2024-12-10,Asia Pacific,Japan,Technology,Pulse Monitor,Retail,Small Business,Oliver Kim,20,293.33,0,5866.6,3396.6,2470.0
+ORD-0130,2024-08-31,Europe,Spain,Accessories,Arc Mouse,Retail,Small Business,Maya Patel,15,64.61,0.05,920.69,330.0,590.69
+ORD-0131,2025-08-07,Middle East & Africa,Saudi Arabia,Accessories,Arc Mouse,Direct Sales,Small Business,Noah Williams,15,62.76,0.05,894.33,310.8,583.53
+ORD-0132,2025-10-18,Latin America,Argentina,Accessories,Echo Headset,Online,Enterprise,Liam Carter,16,197.07,0,3153.12,1340.96,1812.16
+ORD-0133,2024-05-30,North America,Canada,Software,TeamFlow,Partner,Consumer,Emma Garcia,14,225.2,0.05,2995.16,673.12,2322.04
+ORD-0134,2025-01-30,Europe,Spain,Accessories,Echo Headset,Partner,Small Business,Sofia Rossi,3,179.1,0,537.3,234.6,302.7
+ORD-0135,2024-05-22,Europe,Italy,Software,TeamFlow,Online,Enterprise,Noah Williams,23,243.32,0,5596.36,1066.05,4530.31
+ORD-0136,2024-10-22,North America,Mexico,Software,Insight Suite,Direct Sales,Consumer,Liam Carter,8,509.72,0.05,3873.87,726.72,3147.15
+ORD-0137,2024-05-27,Middle East & Africa,United Arab Emirates,Office,Focus Lamp,Direct Sales,Small Business,Liam Carter,10,115.67,0,1156.7,535.6,621.1
+ORD-0138,2025-07-11,Latin America,Chile,Technology,Pulse Monitor,Direct Sales,Government,Ava Morgan,17,333.96,0,5677.32,2936.24,2741.08
+ORD-0139,2024-01-17,Middle East & Africa,South Africa,Accessories,Arc Mouse,Online,Enterprise,Sofia Rossi,12,66.82,0.15,681.56,250.68,430.88
+ORD-0140,2024-06-28,Europe,Italy,Accessories,Arc Mouse,Retail,Small Business,Liam Carter,22,62.8,0.15,1174.36,480.7,693.66
+ORD-0141,2024-02-14,Middle East & Africa,United Arab Emirates,Accessories,Echo Headset,Direct Sales,Government,Maya Patel,7,197.49,0,1382.43,568.82,813.61
+ORD-0142,2024-12-31,Europe,Sweden,Office,CloudChair,Partner,Government,Emma Garcia,2,470.06,0,940.12,456.84,483.28
+ORD-0143,2025-05-23,Middle East & Africa,Kenya,Accessories,Echo Headset,Partner,Consumer,Emma Garcia,23,183.51,0.1,3798.66,2018.25,1780.41
+ORD-0144,2024-10-27,Europe,Spain,Office,Focus Lamp,Partner,Government,Emma Garcia,11,108.16,0,1189.76,567.82,621.94
+ORD-0145,2025-04-02,North America,Mexico,Software,SecureCloud,Direct Sales,Enterprise,Ava Morgan,2,415.49,0.1,747.88,149.6,598.28
+ORD-0146,2025-06-09,Europe,Netherlands,Software,SecureCloud,Direct Sales,Consumer,Sofia Rossi,24,411.79,0,9882.96,1804.08,8078.88
+ORD-0147,2025-01-27,Europe,France,Accessories,Swift Keyboard,Partner,Enterprise,Oliver Kim,19,88.02,0.05,1588.76,718.77,869.99
+ORD-0148,2025-01-10,Europe,Greece,Office,Focus Lamp,Online,Small Business,Oliver Kim,13,113.03,0,1469.39,666.64,802.75
+ORD-0149,2024-09-23,Latin America,Colombia,Technology,Orbit Tablet,Direct Sales,Small Business,Liam Carter,23,726.66,0,16713.18,10676.6,6036.58
+ORD-0150,2025-12-31,North America,United States,Software,Insight Suite,Partner,Consumer,Maya Patel,15,582.12,0,8731.8,1503.9,7227.9
+ORD-0151,2025-06-04,Asia Pacific,Australia,Office,CloudChair,Retail,Government,Ava Morgan,8,406.04,0,3248.32,1796.08,1452.24
+ORD-0152,2025-07-18,Asia Pacific,South Korea,Accessories,Swift Keyboard,Direct Sales,Government,Emma Garcia,5,99.03,0,495.15,187.45,307.7
+ORD-0153,2025-10-19,Middle East & Africa,United Arab Emirates,Office,CloudChair,Retail,Small Business,Sofia Rossi,3,434.3,0,1302.9,716.52,586.38
+ORD-0154,2024-06-05,Middle East & Africa,United Arab Emirates,Technology,Pulse Monitor,Retail,Enterprise,Maya Patel,10,295.41,0.15,2510.99,1686.3,824.69
+ORD-0155,2025-07-18,Europe,Italy,Office,Focus Lamp,Online,Small Business,Sofia Rossi,9,108.68,0.1,880.31,463.05,417.26
+ORD-0156,2024-02-12,North America,Mexico,Accessories,Arc Mouse,Partner,Small Business,Emma Garcia,1,58.05,0.1,52.24,22.54,29.7
+ORD-0157,2025-07-12,Latin America,Brazil,Software,TeamFlow,Direct Sales,Enterprise,Oliver Kim,10,251.61,0,2516.1,445.2,2070.9
+ORD-0158,2025-03-26,Europe,Netherlands,Technology,NovaBook Pro,Retail,Enterprise,Lucas Martin,14,1474.43,0.1,18577.82,12577.6,6000.22
+ORD-0159,2025-06-11,Asia Pacific,India,Office,CloudChair,Partner,Government,Noah Williams,18,404.73,0,7285.14,4063.14,3222.0
+ORD-0160,2025-01-28,North America,United States,Technology,Orbit Tablet,Partner,Enterprise,Noah Williams,20,722.61,0,14452.2,9246.2,5206.0
+ORD-0161,2024-11-11,North America,Canada,Software,SecureCloud,Direct Sales,Small Business,Noah Williams,16,360.61,0.1,5192.78,1201.6,3991.18
+ORD-0162,2024-10-15,Latin America,Chile,Technology,NovaBook Pro,Direct Sales,Enterprise,Ava Morgan,16,1507.28,0.15,20499.01,15596.8,4902.21
+ORD-0163,2025-01-09,Europe,Spain,Office,CloudChair,Retail,Enterprise,Maya Patel,13,427.07,0.1,4996.72,2996.24,2000.48
+ORD-0164,2024-10-13,Europe,Spain,Software,TeamFlow,Direct Sales,Enterprise,Lucas Martin,20,253.46,0,5069.2,869.0,4200.2
+ORD-0165,2025-09-08,Latin America,Chile,Office,ErgoDesk,Retail,Enterprise,Oliver Kim,17,680.19,0,11563.23,6333.18,5230.05
+ORD-0166,2025-06-11,Latin America,Colombia,Office,Focus Lamp,Direct Sales,Enterprise,Lucas Martin,5,113.34,0,566.7,267.7,299.0
+ORD-0167,2024-01-18,Latin America,Colombia,Accessories,Swift Keyboard,Partner,Consumer,Oliver Kim,12,93.69,0.05,1068.07,451.32,616.75
+ORD-0168,2024-02-22,Asia Pacific,South Korea,Office,Focus Lamp,Direct Sales,Small Business,Noah Williams,19,116.85,0.15,1887.13,1005.86,881.27
+ORD-0169,2024-01-20,Europe,Greece,Technology,NovaBook Pro,Retail,Government,Oliver Kim,15,1424.97,0.15,18168.37,13381.65,4786.72
+ORD-0170,2024-07-31,Europe,Netherlands,Office,Focus Lamp,Direct Sales,Enterprise,Sofia Rossi,18,113.28,0.1,1835.14,969.84,865.3
+ORD-0171,2025-11-28,Middle East & Africa,South Africa,Accessories,Arc Mouse,Retail,Small Business,Maya Patel,21,67.01,0.05,1336.85,434.07,902.78
+ORD-0172,2024-10-22,Latin America,Chile,Office,CloudChair,Direct Sales,Enterprise,Maya Patel,23,413.43,0,9508.89,5510.34,3998.55
+ORD-0173,2024-12-19,Asia Pacific,Japan,Software,SecureCloud,Online,Enterprise,Oliver Kim,5,381.46,0.15,1621.2,345.6,1275.6
+ORD-0174,2025-07-05,Asia Pacific,India,Office,ErgoDesk,Online,Small Business,Noah Williams,9,752.49,0,6772.41,3652.2,3120.21
+ORD-0175,2024-08-26,Europe,Netherlands,Office,Focus Lamp,Online,Small Business,Ava Morgan,2,108.1,0.05,205.39,103.26,102.13
+ORD-0176,2025-05-02,Latin America,Argentina,Software,TeamFlow,Partner,Enterprise,Ava Morgan,16,252.03,0,4032.48,754.72,3277.76
+ORD-0177,2024-02-08,Europe,Netherlands,Office,Focus Lamp,Direct Sales,Government,Sofia Rossi,6,115.41,0,692.46,330.36,362.1
+ORD-0178,2025-08-04,Asia Pacific,Japan,Technology,Orbit Tablet,Direct Sales,Government,Sofia Rossi,20,677.85,0,13557.0,9269.0,4288.0
+ORD-0179,2024-04-25,Latin America,Colombia,Accessories,Echo Headset,Retail,Consumer,Lucas Martin,11,171.45,0,1885.95,910.69,975.26
+ORD-0180,2025-09-17,Asia Pacific,South Korea,Office,ErgoDesk,Partner,Consumer,Emma Garcia,21,747.6,0.1,14129.64,8661.03,5468.61
+ORD-0181,2024-11-27,Europe,France,Office,CloudChair,Partner,Enterprise,Maya Patel,8,396.19,0.05,3011.04,1839.76,1171.28
+ORD-0182,2025-01-03,Latin America,Brazil,Accessories,Arc Mouse,Partner,Small Business,Emma Garcia,23,59.97,0.05,1310.34,500.71,809.63
+ORD-0183,2024-10-29,Latin America,Chile,Technology,Pulse Monitor,Direct Sales,Small Business,Oliver Kim,12,323.31,0,3879.72,1996.08,1883.64
+ORD-0184,2025-07-16,Latin America,Chile,Software,TeamFlow,Retail,Consumer,Oliver Kim,16,257.15,0,4114.4,759.04,3355.36
+ORD-0185,2024-04-24,Latin America,Chile,Technology,Pulse Monitor,Retail,Small Business,Lucas Martin,2,336.58,0,673.16,362.9,310.26
+ORD-0186,2024-07-29,Latin America,Colombia,Technology,Pulse Monitor,Direct Sales,Consumer,Oliver Kim,23,321.36,0.1,6652.15,3760.73,2891.42
+ORD-0187,2025-07-31,North America,Mexico,Software,SecureCloud,Online,Government,Maya Patel,2,402.39,0,804.78,145.24,659.54
+ORD-0188,2024-03-15,Europe,Netherlands,Office,Focus Lamp,Online,Consumer,Oliver Kim,2,115.55,0.1,207.99,108.26,99.73
+ORD-0189,2024-05-18,Europe,Italy,Software,Insight Suite,Partner,Government,Oliver Kim,21,580.15,0.05,11573.99,2062.83,9511.16
+ORD-0190,2025-11-08,Middle East & Africa,Kenya,Technology,Pulse Monitor,Retail,Government,Sofia Rossi,18,293.45,0,5282.1,3249.18,2032.92
+ORD-0191,2025-04-19,North America,United States,Technology,Orbit Tablet,Retail,Small Business,Oliver Kim,22,765.95,0.05,16008.36,9508.62,6499.74
+ORD-0192,2024-04-25,Asia Pacific,Australia,Accessories,Echo Headset,Retail,Small Business,Liam Carter,2,194.74,0,389.48,164.74,224.74
+ORD-0193,2025-09-04,Europe,Greece,Technology,Orbit Tablet,Online,Government,Oliver Kim,22,763.67,0.15,14280.63,9046.84,5233.79
+ORD-0194,2024-05-23,North America,Mexico,Office,ErgoDesk,Partner,Enterprise,Noah Williams,17,760.71,0.15,10992.26,6500.29,4491.97
+ORD-0195,2024-11-03,Asia Pacific,Australia,Office,CloudChair,Retail,Government,Oliver Kim,9,400.84,0.15,3066.43,2221.74,844.69
+ORD-0196,2024-11-22,Europe,Italy,Software,TeamFlow,Retail,Government,Noah Williams,23,240.78,0.05,5261.04,1003.26,4257.78
+ORD-0197,2024-02-29,North America,Canada,Office,CloudChair,Retail,Government,Noah Williams,18,431.09,0.1,6983.66,4157.1,2826.56
+ORD-0198,2024-03-21,Asia Pacific,Australia,Accessories,Arc Mouse,Retail,Consumer,Maya Patel,15,67.54,0.15,861.14,303.0,558.14
+ORD-0199,2025-08-24,Middle East & Africa,United Arab Emirates,Technology,NovaBook Pro,Partner,Enterprise,Ava Morgan,24,1528.72,0,36689.28,21599.04,15090.24
+ORD-0200,2025-05-05,North America,United States,Technology,Pulse Monitor,Retail,Enterprise,Maya Patel,8,328.33,0.05,2495.31,1416.4,1078.91
+ORD-0201,2024-09-24,Middle East & Africa,Kenya,Accessories,Swift Keyboard,Direct Sales,Enterprise,Noah Williams,12,97.14,0,1165.68,474.84,690.84
+ORD-0202,2025-07-30,Asia Pacific,Singapore,Software,Insight Suite,Direct Sales,Enterprise,Sofia Rossi,8,555.49,0.1,3999.53,723.6,3275.93
+ORD-0203,2025-08-06,North America,Canada,Office,CloudChair,Partner,Enterprise,Oliver Kim,8,438.54,0.15,2982.07,1904.56,1077.51
+ORD-0204,2024-12-26,Middle East & Africa,Kenya,Office,Focus Lamp,Online,Consumer,Liam Carter,6,109.02,0,654.12,318.54,335.58
+ORD-0205,2024-05-20,Europe,Sweden,Technology,Orbit Tablet,Retail,Government,Lucas Martin,21,695.73,0,14610.33,9408.63,5201.7
+ORD-0206,2025-05-14,Europe,Greece,Software,TeamFlow,Online,Enterprise,Maya Patel,1,221.12,0,221.12,45.98,175.14
+ORD-0207,2024-04-19,Europe,Greece,Software,Insight Suite,Partner,Enterprise,Maya Patel,4,532.94,0.1,1918.58,372.92,1545.66
+ORD-0208,2025-04-15,Middle East & Africa,United Arab Emirates,Accessories,Swift Keyboard,Online,Consumer,Liam Carter,19,92.02,0,1748.38,771.02,977.36
+ORD-0209,2025-05-02,Middle East & Africa,Kenya,Software,TeamFlow,Direct Sales,Government,Lucas Martin,2,251.36,0,502.72,93.72,409.0
+ORD-0210,2024-08-04,Latin America,Brazil,Technology,NovaBook Pro,Online,Enterprise,Ava Morgan,23,1591.39,0,36601.97,21410.01,15191.96
+ORD-0211,2025-08-24,North America,Canada,Technology,NovaBook Pro,Online,Enterprise,Sofia Rossi,5,1552.15,0.05,7372.71,4796.2,2576.51
+ORD-0212,2025-07-07,Latin America,Argentina,Software,TeamFlow,Online,Enterprise,Ava Morgan,11,239.22,0.15,2236.71,517.88,1718.83
+ORD-0213,2024-12-14,Europe,Spain,Office,ErgoDesk,Partner,Consumer,Maya Patel,20,730.18,0.05,13873.42,8378.2,5495.22
+ORD-0214,2025-07-20,Middle East & Africa,Kenya,Office,CloudChair,Direct Sales,Consumer,Maya Patel,13,432.74,0.15,4781.78,3104.66,1677.12
+ORD-0215,2024-10-01,North America,Mexico,Technology,NovaBook Pro,Direct Sales,Enterprise,Lucas Martin,5,1444.2,0,7221.0,4838.75,2382.25
+ORD-0216,2025-03-31,Europe,Germany,Technology,Orbit Tablet,Retail,Government,Oliver Kim,12,772.03,0,9264.36,4970.52,4293.84
+ORD-0217,2024-04-01,Latin America,Colombia,Technology,NovaBook Pro,Direct Sales,Consumer,Maya Patel,12,1494.72,0,17936.64,11344.68,6591.96
+ORD-0218,2025-07-26,Middle East & Africa,Kenya,Technology,Pulse Monitor,Retail,Small Business,Maya Patel,8,320.66,0.05,2437.02,1322.0,1115.02
+ORD-0219,2024-03-05,Asia Pacific,Singapore,Software,Insight Suite,Online,Enterprise,Maya Patel,6,523.61,0.05,2984.58,572.7,2411.88
+ORD-0220,2025-09-23,North America,Mexico,Software,TeamFlow,Direct Sales,Enterprise,Emma Garcia,7,242.78,0,1699.46,304.78,1394.68
+ORD-0221,2025-10-28,Asia Pacific,India,Accessories,Swift Keyboard,Retail,Government,Lucas Martin,20,89.99,0.15,1529.83,773.6,756.23
+ORD-0222,2025-12-12,North America,Canada,Accessories,Swift Keyboard,Partner,Government,Maya Patel,21,96.73,0,2031.33,839.37,1191.96
+ORD-0223,2024-07-23,Middle East & Africa,South Africa,Technology,Pulse Monitor,Online,Government,Noah Williams,19,347.03,0.1,5934.21,3144.12,2790.09
+ORD-0224,2025-11-20,Middle East & Africa,South Africa,Technology,Orbit Tablet,Retail,Government,Emma Garcia,16,682.44,0,10919.04,6806.88,4112.16
+ORD-0225,2025-02-14,Europe,Spain,Software,TeamFlow,Direct Sales,Consumer,Lucas Martin,18,245.12,0.15,3750.34,866.34,2884.0
+ORD-0226,2025-11-04,Latin America,Brazil,Technology,NovaBook Pro,Direct Sales,Enterprise,Emma Garcia,22,1436.95,0,31612.9,20930.36,10682.54
+ORD-0227,2024-08-15,Europe,Germany,Technology,Orbit Tablet,Retail,Government,Lucas Martin,17,769.95,0.15,11125.78,7474.73,3651.05
+ORD-0228,2024-01-26,Middle East & Africa,Kenya,Office,CloudChair,Online,Small Business,Lucas Martin,16,404.59,0,6473.44,3695.04,2778.4
+ORD-0229,2025-06-17,Asia Pacific,Singapore,Software,Insight Suite,Direct Sales,Enterprise,Liam Carter,16,514.62,0.15,6998.83,1463.36,5535.47
+ORD-0230,2024-12-17,Asia Pacific,Japan,Technology,NovaBook Pro,Retail,Small Business,Sofia Rossi,21,1365.72,0.15,24378.1,20363.49,4014.61
+ORD-0231,2024-08-25,Asia Pacific,South Korea,Software,SecureCloud,Direct Sales,Government,Ava Morgan,13,407.92,0.15,4507.52,886.6,3620.92
+ORD-0232,2025-03-15,Latin America,Argentina,Software,TeamFlow,Online,Consumer,Sofia Rossi,13,221.01,0,2873.13,572.13,2301.0
+ORD-0233,2024-04-26,Asia Pacific,Singapore,Office,CloudChair,Partner,Government,Emma Garcia,9,453.28,0.15,3467.59,2098.26,1369.33
+ORD-0234,2025-04-13,Latin America,Brazil,Accessories,Swift Keyboard,Online,Small Business,Lucas Martin,20,90.68,0,1813.6,809.4,1004.2
+ORD-0235,2024-07-06,Europe,France,Accessories,Echo Headset,Retail,Government,Emma Garcia,12,190.56,0.05,2172.38,1000.2,1172.18
+ORD-0236,2024-06-19,North America,Canada,Office,Focus Lamp,Online,Enterprise,Ava Morgan,16,112.44,0.05,1709.09,810.56,898.53
+ORD-0237,2025-07-29,Middle East & Africa,Saudi Arabia,Office,CloudChair,Direct Sales,Government,Oliver Kim,17,451.76,0.05,7295.92,3922.41,3373.51
+ORD-0238,2024-10-26,North America,United States,Technology,NovaBook Pro,Direct Sales,Government,Liam Carter,2,1413.71,0,2827.42,1876.6,950.82
+ORD-0239,2025-01-10,Latin America,Brazil,Accessories,Arc Mouse,Direct Sales,Small Business,Emma Garcia,18,67.24,0.15,1028.77,361.08,667.69
+ORD-0240,2024-02-03,Europe,Netherlands,Office,CloudChair,Direct Sales,Consumer,Noah Williams,15,418.2,0,6273.0,3664.2,2608.8
+ORD-0241,2025-09-16,North America,Mexico,Accessories,Arc Mouse,Retail,Consumer,Lucas Martin,21,62.35,0,1309.35,454.23,855.12
+ORD-0242,2025-12-21,Latin America,Chile,Office,CloudChair,Online,Small Business,Emma Garcia,10,420.48,0.1,3784.32,2264.9,1519.42
+ORD-0243,2024-05-15,Europe,Italy,Office,Focus Lamp,Direct Sales,Government,Sofia Rossi,8,109.16,0,873.28,412.64,460.64
+ORD-0244,2025-04-07,Latin America,Chile,Software,SecureCloud,Direct Sales,Enterprise,Lucas Martin,3,408.22,0,1224.66,223.53,1001.13
+ORD-0245,2024-01-03,Middle East & Africa,Kenya,Accessories,Arc Mouse,Partner,Consumer,Emma Garcia,24,58.19,0.15,1187.08,542.4,644.68
+ORD-0246,2024-10-01,North America,Canada,Office,CloudChair,Retail,Government,Lucas Martin,11,466.84,0.1,4621.72,2514.6,2107.12
+ORD-0247,2025-04-15,Europe,Germany,Technology,Pulse Monitor,Direct Sales,Consumer,Emma Garcia,1,292.9,0.05,278.25,180.45,97.8
+ORD-0248,2024-11-05,North America,Mexico,Office,Focus Lamp,Partner,Enterprise,Liam Carter,6,125.91,0,755.46,331.98,423.48
+ORD-0249,2025-10-02,Asia Pacific,Australia,Technology,Orbit Tablet,Online,Consumer,Ava Morgan,10,766.94,0.05,7285.93,4507.2,2778.73
+ORD-0250,2025-08-30,North America,Canada,Technology,NovaBook Pro,Partner,Consumer,Emma Garcia,8,1484.64,0,11877.12,7417.84,4459.28
+ORD-0251,2025-01-27,North America,Canada,Technology,NovaBook Pro,Partner,Enterprise,Sofia Rossi,3,1545.92,0,4637.76,2658.75,1979.01
+ORD-0252,2025-06-27,Middle East & Africa,Saudi Arabia,Office,ErgoDesk,Partner,Small Business,Sofia Rossi,19,626.75,0.05,11312.84,7665.74,3647.1
+ORD-0253,2024-04-12,Middle East & Africa,Kenya,Office,ErgoDesk,Partner,Government,Lucas Martin,5,727.93,0.05,3457.67,2001.95,1455.72
+ORD-0254,2024-03-27,North America,United States,Accessories,Arc Mouse,Partner,Consumer,Maya Patel,8,63.9,0.1,460.08,172.72,287.36
+ORD-0255,2025-02-05,North America,Mexico,Office,Focus Lamp,Direct Sales,Government,Liam Carter,10,120.66,0,1206.6,547.0,659.6
+ORD-0256,2024-01-13,North America,Canada,Technology,Pulse Monitor,Direct Sales,Enterprise,Sofia Rossi,12,343.1,0.1,3705.48,1973.04,1732.44
+ORD-0257,2024-03-10,Middle East & Africa,United Arab Emirates,Technology,Pulse Monitor,Direct Sales,Enterprise,Emma Garcia,1,301.46,0,301.46,162.38,139.08
+ORD-0258,2025-07-03,Middle East & Africa,Kenya,Technology,Pulse Monitor,Online,Small Business,Sofia Rossi,18,323.39,0,5821.02,3017.34,2803.68
+ORD-0259,2025-10-11,Latin America,Chile,Software,TeamFlow,Direct Sales,Small Business,Ava Morgan,21,253.49,0.15,4524.8,905.94,3618.86
+ORD-0260,2025-04-09,North America,United States,Software,Insight Suite,Retail,Consumer,Ava Morgan,20,541.72,0.15,9209.24,1881.4,7327.84
+ORD-0261,2025-05-23,North America,Mexico,Technology,NovaBook Pro,Partner,Small Business,Lucas Martin,12,1485.67,0.15,15153.83,11611.8,3542.03
+ORD-0262,2024-04-30,North America,Mexico,Accessories,Arc Mouse,Online,Enterprise,Liam Carter,1,61.19,0.1,55.07,21.12,33.95
+ORD-0263,2025-05-26,Middle East & Africa,Kenya,Accessories,Echo Headset,Online,Small Business,Ava Morgan,19,171.61,0,3260.59,1512.02,1748.57
+ORD-0264,2024-02-17,Europe,Sweden,Technology,NovaBook Pro,Online,Government,Noah Williams,16,1439.55,0,23032.8,15744.96,7287.84
+ORD-0265,2024-11-23,Asia Pacific,Australia,Software,TeamFlow,Online,Small Business,Noah Williams,9,260.45,0,2344.05,414.81,1929.24
+ORD-0266,2025-04-21,Latin America,Brazil,Software,Insight Suite,Direct Sales,Consumer,Lucas Martin,10,558.85,0,5588.5,940.9,4647.6
+ORD-0267,2025-09-29,North America,Canada,Accessories,Arc Mouse,Retail,Small Business,Sofia Rossi,8,62.79,0.05,477.2,172.56,304.64
+ORD-0268,2025-07-08,Europe,Spain,Technology,NovaBook Pro,Partner,Consumer,Emma Garcia,12,1518.42,0,18221.04,11483.28,6737.76
+ORD-0269,2024-08-31,Asia Pacific,Japan,Office,Focus Lamp,Partner,Consumer,Ava Morgan,14,117.12,0,1639.68,697.2,942.48
+ORD-0270,2025-01-16,North America,Mexico,Software,TeamFlow,Retail,Government,Liam Carter,15,267.58,0,4013.7,648.75,3364.95
+ORD-0271,2024-05-13,Latin America,Brazil,Software,TeamFlow,Partner,Enterprise,Oliver Kim,8,234.8,0.05,1784.48,381.84,1402.64
+ORD-0272,2024-05-19,Asia Pacific,Australia,Technology,NovaBook Pro,Direct Sales,Enterprise,Emma Garcia,19,1365.6,0.05,24649.08,16846.16,7802.92
+ORD-0273,2025-04-07,Europe,Greece,Accessories,Echo Headset,Retail,Enterprise,Ava Morgan,10,182.28,0,1822.8,869.9,952.9
+ORD-0274,2025-12-29,North America,Canada,Office,ErgoDesk,Partner,Enterprise,Sofia Rossi,8,757.3,0,6058.4,3124.72,2933.68
+ORD-0275,2025-07-17,Europe,Spain,Software,TeamFlow,Online,Consumer,Ava Morgan,8,225.35,0,1802.8,346.8,1456.0
+ORD-0276,2025-01-16,North America,United States,Office,CloudChair,Partner,Consumer,Ava Morgan,22,449.81,0.1,8906.24,5231.16,3675.08
+ORD-0277,2024-04-04,Europe,France,Software,Insight Suite,Retail,Government,Emma Garcia,11,491.14,0,5402.54,1120.79,4281.75
+ORD-0278,2025-03-12,Middle East & Africa,United Arab Emirates,Software,TeamFlow,Partner,Government,Sofia Rossi,6,237.79,0,1426.74,288.36,1138.38
+ORD-0279,2024-10-29,Europe,Greece,Office,Focus Lamp,Online,Enterprise,Emma Garcia,16,115.28,0,1844.48,849.92,994.56
+ORD-0280,2025-06-22,North America,Canada,Office,Focus Lamp,Direct Sales,Enterprise,Oliver Kim,8,120.31,0,962.48,438.56,523.92
+ORD-0281,2025-05-29,Latin America,Colombia,Accessories,Arc Mouse,Retail,Consumer,Maya Patel,11,61.86,0,680.46,224.84,455.62
+ORD-0282,2025-01-01,Europe,Sweden,Software,TeamFlow,Retail,Small Business,Maya Patel,19,268.78,0,5106.82,920.55,4186.27
+ORD-0283,2025-02-01,Latin America,Brazil,Office,Focus Lamp,Retail,Small Business,Lucas Martin,12,127.31,0,1527.72,673.2,854.52
+ORD-0284,2025-12-18,Asia Pacific,South Korea,Technology,Pulse Monitor,Retail,Government,Maya Patel,12,343.95,0.1,3714.66,2087.52,1627.14
+ORD-0285,2024-02-27,North America,Canada,Technology,NovaBook Pro,Online,Enterprise,Noah Williams,8,1508.48,0.05,11464.45,7011.04,4453.41
+ORD-0286,2024-03-01,North America,Canada,Office,CloudChair,Online,Enterprise,Liam Carter,1,408.3,0,408.3,239.57,168.73
+ORD-0287,2024-11-05,Asia Pacific,India,Technology,Orbit Tablet,Direct Sales,Enterprise,Sofia Rossi,11,682.05,0.05,7127.42,4590.3,2537.12
+ORD-0288,2025-08-26,Latin America,Chile,Office,Focus Lamp,Retail,Small Business,Ava Morgan,6,114.5,0,687.0,326.16,360.84
+ORD-0289,2025-09-08,Latin America,Colombia,Technology,NovaBook Pro,Online,Government,Sofia Rossi,11,1601.1,0,17612.1,10886.92,6725.18
+ORD-0290,2024-11-23,Asia Pacific,Japan,Office,CloudChair,Partner,Government,Ava Morgan,6,450.31,0.15,2296.58,1483.8,812.78
+ORD-0291,2024-03-10,Asia Pacific,Australia,Office,Focus Lamp,Online,Government,Oliver Kim,12,111.7,0,1340.4,601.56,738.84
+ORD-0292,2025-01-22,Middle East & Africa,Saudi Arabia,Software,SecureCloud,Retail,Small Business,Oliver Kim,12,401.39,0.05,4575.85,809.04,3766.81
+ORD-0293,2024-01-21,Europe,Sweden,Technology,Orbit Tablet,Retail,Government,Sofia Rossi,11,700.0,0,7700.0,4557.85,3142.15
+ORD-0294,2025-08-31,Europe,Greece,Technology,Orbit Tablet,Retail,Government,Sofia Rossi,20,791.02,0.05,15029.38,8957.6,6071.78
+ORD-0295,2024-07-13,Europe,Germany,Accessories,Echo Headset,Partner,Enterprise,Maya Patel,14,190.7,0.15,2269.33,1198.4,1070.93
+ORD-0296,2025-08-08,North America,United States,Technology,Orbit Tablet,Online,Government,Liam Carter,18,783.34,0,14100.12,7507.62,6592.5
+ORD-0297,2024-04-09,Asia Pacific,South Korea,Software,Insight Suite,Direct Sales,Consumer,Maya Patel,1,499.92,0,499.92,98.13,401.79
+ORD-0298,2024-09-28,Middle East & Africa,Kenya,Software,TeamFlow,Direct Sales,Enterprise,Sofia Rossi,3,251.61,0,754.83,135.06,619.77
+ORD-0299,2025-04-21,Middle East & Africa,United Arab Emirates,Accessories,Swift Keyboard,Retail,Consumer,Liam Carter,9,91.7,0,825.3,345.69,479.61
+ORD-0300,2024-08-20,Asia Pacific,South Korea,Software,TeamFlow,Direct Sales,Government,Noah Williams,18,223.73,0.1,3624.43,810.18,2814.25
+ORD-0301,2024-02-05,Middle East & Africa,South Africa,Technology,Orbit Tablet,Retail,Consumer,Oliver Kim,17,744.66,0.1,11393.3,7435.63,3957.67
+ORD-0302,2024-05-09,North America,United States,Office,ErgoDesk,Retail,Small Business,Maya Patel,2,683.18,0.05,1298.04,841.22,456.82
+ORD-0303,2025-07-23,Asia Pacific,Japan,Technology,Orbit Tablet,Direct Sales,Consumer,Emma Garcia,13,741.9,0.1,8680.23,5933.07,2747.16
+ORD-0304,2025-08-03,Europe,Spain,Office,ErgoDesk,Online,Consumer,Maya Patel,19,704.84,0,13391.96,7968.98,5422.98
+ORD-0305,2025-01-27,Latin America,Chile,Software,SecureCloud,Retail,Enterprise,Emma Garcia,21,396.68,0,8330.28,1512.84,6817.44
+ORD-0306,2025-02-09,North America,Mexico,Software,Insight Suite,Partner,Enterprise,Ava Morgan,11,550.21,0.05,5749.69,999.46,4750.23
+ORD-0307,2025-05-18,Asia Pacific,Singapore,Accessories,Swift Keyboard,Retail,Enterprise,Oliver Kim,23,100.41,0,2309.43,965.54,1343.89
+ORD-0308,2025-10-23,Asia Pacific,Singapore,Software,TeamFlow,Direct Sales,Enterprise,Ava Morgan,3,229.82,0.05,654.99,131.97,523.02
+ORD-0309,2025-12-27,Latin America,Argentina,Technology,Orbit Tablet,Online,Small Business,Noah Williams,17,720.49,0.1,11023.5,7686.21,3337.29
+ORD-0310,2025-04-12,North America,United States,Office,ErgoDesk,Partner,Government,Emma Garcia,2,750.45,0,1500.9,812.44,688.46
+ORD-0311,2025-01-16,Europe,Netherlands,Technology,NovaBook Pro,Partner,Enterprise,Sofia Rossi,16,1506.27,0.05,22895.3,14323.84,8571.46
+ORD-0312,2025-01-30,Asia Pacific,Japan,Accessories,Echo Headset,Retail,Small Business,Noah Williams,2,171.46,0,342.92,168.0,174.92
+ORD-0313,2024-01-10,Asia Pacific,India,Technology,Pulse Monitor,Online,Small Business,Maya Patel,16,341.71,0.1,4920.62,2812.96,2107.66
+ORD-0314,2025-01-20,Latin America,Chile,Accessories,Swift Keyboard,Direct Sales,Consumer,Ava Morgan,12,96.12,0,1153.44,457.92,695.52
+ORD-0315,2025-12-01,Latin America,Chile,Accessories,Swift Keyboard,Partner,Enterprise,Maya Patel,4,96.55,0,386.2,155.0,231.2
+ORD-0316,2024-09-03,Asia Pacific,Australia,Office,Focus Lamp,Direct Sales,Enterprise,Sofia Rossi,2,124.32,0.1,223.78,109.64,114.14
+ORD-0317,2024-09-22,Europe,Netherlands,Software,SecureCloud,Retail,Enterprise,Noah Williams,14,390.36,0.1,4918.54,1024.8,3893.74
+ORD-0318,2024-11-03,Latin America,Colombia,Accessories,Arc Mouse,Partner,Consumer,Oliver Kim,6,67.46,0,404.76,134.04,270.72
+ORD-0319,2025-07-26,North America,Mexico,Accessories,Arc Mouse,Online,Small Business,Lucas Martin,6,68.78,0.15,350.78,134.46,216.32
+ORD-0320,2024-12-05,North America,Mexico,Accessories,Swift Keyboard,Direct Sales,Consumer,Liam Carter,12,92.35,0,1108.2,462.48,645.72
+ORD-0321,2025-01-25,Middle East & Africa,Saudi Arabia,Technology,Pulse Monitor,Retail,Small Business,Lucas Martin,17,303.7,0,5162.9,2765.73,2397.17
+ORD-0322,2024-07-03,Middle East & Africa,Kenya,Office,CloudChair,Partner,Consumer,Ava Morgan,3,437.53,0,1312.59,712.11,600.48
+ORD-0323,2025-08-13,Middle East & Africa,South Africa,Office,ErgoDesk,Retail,Government,Emma Garcia,6,692.18,0,4153.08,2455.26,1697.82
+ORD-0324,2024-01-05,Middle East & Africa,Kenya,Software,SecureCloud,Partner,Small Business,Ava Morgan,2,400.44,0,800.88,146.3,654.58
+ORD-0325,2025-12-11,Europe,Netherlands,Office,ErgoDesk,Partner,Small Business,Liam Carter,12,668.04,0.1,7214.83,4508.52,2706.31
+ORD-0326,2025-06-16,Europe,Italy,Accessories,Swift Keyboard,Retail,Enterprise,Oliver Kim,20,97.36,0.15,1655.12,785.0,870.12
+ORD-0327,2024-01-20,Asia Pacific,Australia,Office,CloudChair,Online,Small Business,Liam Carter,8,414.89,0,3319.12,1983.6,1335.52
+ORD-0328,2024-09-18,Asia Pacific,Japan,Software,TeamFlow,Online,Consumer,Ava Morgan,18,250.71,0,4512.78,831.96,3680.82
+ORD-0329,2024-05-06,Europe,Spain,Software,SecureCloud,Online,Enterprise,Emma Garcia,18,378.51,0,6813.18,1312.02,5501.16
+ORD-0330,2025-09-12,Europe,Netherlands,Accessories,Arc Mouse,Online,Enterprise,Liam Carter,23,58.74,0,1351.02,511.06,839.96
+ORD-0331,2024-07-23,Europe,Spain,Office,Focus Lamp,Direct Sales,Enterprise,Sofia Rossi,9,124.92,0,1124.28,503.82,620.46
+ORD-0332,2025-12-05,Europe,Greece,Software,Insight Suite,Online,Consumer,Oliver Kim,16,512.78,0.15,6973.81,1444.48,5529.33
+ORD-0333,2024-04-13,North America,United States,Technology,Pulse Monitor,Partner,Government,Ava Morgan,9,325.15,0,2926.35,1544.31,1382.04
+ORD-0334,2024-10-24,Europe,Sweden,Office,ErgoDesk,Online,Consumer,Ava Morgan,12,734.62,0.15,7493.12,4636.2,2856.92
+ORD-0335,2025-10-24,Europe,Sweden,Office,Focus Lamp,Partner,Consumer,Lucas Martin,6,113.36,0.1,612.14,332.7,279.44
+ORD-0336,2025-02-13,Asia Pacific,Australia,Technology,Orbit Tablet,Direct Sales,Small Business,Liam Carter,15,701.54,0.05,9996.94,6450.9,3546.04
+ORD-0337,2024-04-16,North America,Mexico,Technology,NovaBook Pro,Direct Sales,Small Business,Emma Garcia,14,1598.26,0.1,20138.08,13044.22,7093.86
+ORD-0338,2024-05-13,Asia Pacific,South Korea,Technology,Pulse Monitor,Direct Sales,Consumer,Liam Carter,16,342.26,0.05,5202.35,2624.0,2578.35
+ORD-0339,2025-11-25,Asia Pacific,Singapore,Technology,Pulse Monitor,Retail,Enterprise,Liam Carter,17,332.79,0.1,5091.69,2962.08,2129.61
+ORD-0340,2025-11-10,Middle East & Africa,Saudi Arabia,Software,SecureCloud,Online,Consumer,Sofia Rossi,22,408.83,0.1,8094.83,1492.7,6602.13
+ORD-0341,2024-03-17,Latin America,Colombia,Software,Insight Suite,Online,Small Business,Emma Garcia,16,511.75,0,8188.0,1509.44,6678.56
+ORD-0342,2025-03-30,Middle East & Africa,Saudi Arabia,Technology,Orbit Tablet,Partner,Consumer,Oliver Kim,19,726.93,0.05,13121.09,8671.22,4449.87
+ORD-0343,2024-02-06,Europe,Germany,Software,SecureCloud,Partner,Small Business,Oliver Kim,18,401.63,0.1,6506.41,1332.36,5174.05
+ORD-0344,2025-04-10,Asia Pacific,Singapore,Technology,NovaBook Pro,Partner,Government,Liam Carter,11,1496.44,0.05,15637.8,10429.32,5208.48
+ORD-0345,2024-12-15,Europe,Sweden,Office,ErgoDesk,Partner,Consumer,Ava Morgan,12,738.46,0,8861.52,5032.8,3828.72
+ORD-0346,2025-02-23,North America,Canada,Office,Focus Lamp,Direct Sales,Small Business,Oliver Kim,4,111.65,0,446.6,202.88,243.72
+ORD-0347,2025-02-28,North America,Mexico,Accessories,Echo Headset,Online,Government,Oliver Kim,2,198.96,0.1,358.13,173.66,184.47
+ORD-0348,2025-06-27,Latin America,Argentina,Software,Insight Suite,Direct Sales,Small Business,Sofia Rossi,24,483.45,0.1,10442.52,2443.2,7999.32
+ORD-0349,2025-09-06,North America,United States,Software,TeamFlow,Direct Sales,Small Business,Maya Patel,20,263.17,0.05,5000.23,914.0,4086.23
+ORD-0350,2024-05-16,Middle East & Africa,South Africa,Accessories,Swift Keyboard,Partner,Enterprise,Noah Williams,5,95.24,0.15,404.77,203.0,201.77
+ORD-0351,2024-12-19,North America,United States,Accessories,Arc Mouse,Partner,Consumer,Lucas Martin,22,58.69,0,1291.18,481.58,809.6
+ORD-0352,2025-06-30,Latin America,Colombia,Software,TeamFlow,Online,Consumer,Emma Garcia,10,262.92,0,2629.2,452.2,2177.0
+ORD-0353,2024-09-30,North America,United States,Technology,NovaBook Pro,Online,Enterprise,Noah Williams,6,1619.22,0,9715.32,5734.38,3980.94
+ORD-0354,2024-04-14,Latin America,Brazil,Accessories,Swift Keyboard,Direct Sales,Small Business,Maya Patel,20,103.89,0,2077.8,816.0,1261.8
+ORD-0355,2025-12-02,Europe,Spain,Software,SecureCloud,Partner,Small Business,Oliver Kim,11,434.13,0.15,4059.12,736.89,3322.23
+ORD-0356,2025-07-13,North America,Mexico,Accessories,Arc Mouse,Partner,Government,Sofia Rossi,24,64.52,0,1548.48,529.68,1018.8
+ORD-0357,2025-06-10,Europe,France,Office,Focus Lamp,Partner,Small Business,Sofia Rossi,4,114.48,0.1,412.13,209.2,202.93
+ORD-0358,2025-04-22,Latin America,Chile,Technology,Orbit Tablet,Online,Enterprise,Oliver Kim,23,797.4,0,18340.2,9446.79,8893.41
+ORD-0359,2024-11-21,Latin America,Chile,Technology,Pulse Monitor,Retail,Government,Emma Garcia,17,298.84,0,5080.28,2814.52,2265.76
+ORD-0360,2025-11-10,Europe,Italy,Office,ErgoDesk,Direct Sales,Consumer,Liam Carter,11,670.63,0.1,6639.24,4239.18,2400.06
+ORD-0361,2025-09-20,Asia Pacific,India,Office,Focus Lamp,Direct Sales,Consumer,Emma Garcia,20,111.41,0,2228.2,993.4,1234.8
+ORD-0362,2025-06-13,Asia Pacific,South Korea,Accessories,Echo Headset,Online,Enterprise,Noah Williams,12,184.12,0.05,2098.97,999.84,1099.13
+ORD-0363,2024-06-20,Asia Pacific,South Korea,Technology,NovaBook Pro,Retail,Government,Liam Carter,18,1488.63,0,26795.34,17081.64,9713.7
+ORD-0364,2024-03-14,North America,Mexico,Software,TeamFlow,Partner,Consumer,Liam Carter,24,253.73,0.15,5176.09,1029.36,4146.73
+ORD-0365,2025-07-25,Europe,Germany,Office,CloudChair,Direct Sales,Government,Oliver Kim,3,445.05,0,1335.15,675.93,659.22
+ORD-0366,2025-02-02,Middle East & Africa,Kenya,Accessories,Echo Headset,Online,Consumer,Liam Carter,22,169.86,0.15,3176.38,1715.12,1461.26
+ORD-0367,2025-12-03,Asia Pacific,South Korea,Technology,Orbit Tablet,Direct Sales,Government,Ava Morgan,10,749.75,0.05,7122.62,4242.4,2880.22
+ORD-0368,2025-02-04,Middle East & Africa,Saudi Arabia,Office,ErgoDesk,Partner,Consumer,Sofia Rossi,18,665.72,0,11982.96,7247.7,4735.26
+ORD-0369,2025-09-02,Europe,Germany,Technology,Pulse Monitor,Retail,Enterprise,Noah Williams,13,318.5,0,4140.5,2371.59,1768.91
+ORD-0370,2024-08-14,Middle East & Africa,Saudi Arabia,Office,ErgoDesk,Online,Government,Liam Carter,20,739.13,0,14782.6,7607.0,7175.6
+ORD-0371,2024-07-21,Asia Pacific,Japan,Accessories,Echo Headset,Retail,Small Business,Liam Carter,24,186.5,0,4476.0,2112.96,2363.04
+ORD-0372,2024-11-21,Asia Pacific,South Korea,Technology,NovaBook Pro,Retail,Enterprise,Lucas Martin,16,1464.69,0,23435.04,15163.36,8271.68
+ORD-0373,2024-09-09,Middle East & Africa,Saudi Arabia,Technology,Orbit Tablet,Partner,Small Business,Lucas Martin,8,764.96,0,6119.68,3554.56,2565.12
+ORD-0374,2024-11-08,Middle East & Africa,Kenya,Software,SecureCloud,Online,Enterprise,Sofia Rossi,16,401.83,0.1,5786.35,1089.6,4696.75
+ORD-0375,2025-10-03,Latin America,Argentina,Accessories,Arc Mouse,Online,Government,Noah Williams,3,66.06,0.1,178.36,67.17,111.19
+ORD-0376,2025-07-06,Europe,Greece,Accessories,Arc Mouse,Retail,Enterprise,Sofia Rossi,16,65.15,0.05,990.28,325.76,664.52
+ORD-0377,2025-05-29,Middle East & Africa,United Arab Emirates,Software,SecureCloud,Retail,Small Business,Oliver Kim,1,410.49,0.1,369.44,74.22,295.22
+ORD-0378,2025-05-10,North America,United States,Office,Focus Lamp,Online,Enterprise,Lucas Martin,12,106.73,0,1280.76,654.6,626.16
+ORD-0379,2025-01-04,North America,United States,Office,Focus Lamp,Online,Enterprise,Liam Carter,13,116.6,0,1515.8,682.11,833.69
+ORD-0380,2025-07-11,Latin America,Chile,Accessories,Arc Mouse,Online,Enterprise,Emma Garcia,19,59.2,0,1124.8,412.87,711.93
+ORD-0381,2024-12-19,North America,Mexico,Software,SecureCloud,Retail,Government,Sofia Rossi,16,420.63,0,6730.08,1193.12,5536.96
+ORD-0382,2024-06-02,North America,United States,Accessories,Echo Headset,Retail,Government,Lucas Martin,6,171.26,0,1027.56,505.92,521.64
+ORD-0383,2024-08-03,Europe,Spain,Software,SecureCloud,Retail,Consumer,Sofia Rossi,19,371.38,0,7056.22,1407.52,5648.7
+ORD-0384,2025-06-08,Latin America,Argentina,Office,Focus Lamp,Partner,Small Business,Emma Garcia,2,126.29,0,252.58,100.78,151.8
+ORD-0385,2024-08-09,Latin America,Brazil,Accessories,Echo Headset,Retail,Small Business,Emma Garcia,15,187.43,0.05,2670.88,1243.95,1426.93
+ORD-0386,2025-11-06,Latin America,Argentina,Office,Focus Lamp,Direct Sales,Consumer,Noah Williams,17,111.88,0,1901.96,923.1,978.86
+ORD-0387,2024-01-17,Middle East & Africa,Kenya,Office,ErgoDesk,Direct Sales,Small Business,Liam Carter,7,696.69,0.15,4145.31,2916.2,1229.11
+ORD-0388,2025-05-30,North America,Canada,Technology,Pulse Monitor,Online,Government,Emma Garcia,4,290.98,0.1,1047.53,704.28,343.25
+ORD-0389,2025-05-08,Asia Pacific,Japan,Software,Insight Suite,Online,Government,Sofia Rossi,13,514.85,0.15,5689.09,1302.47,4386.62
+ORD-0390,2024-10-17,Asia Pacific,India,Office,ErgoDesk,Online,Consumer,Liam Carter,20,744.84,0,14896.8,7824.4,7072.4
+ORD-0391,2024-07-29,Latin America,Brazil,Software,TeamFlow,Retail,Government,Maya Patel,23,259.41,0,5966.43,1038.22,4928.21
+ORD-0392,2025-01-09,Asia Pacific,South Korea,Software,TeamFlow,Direct Sales,Government,Sofia Rossi,20,234.03,0,4680.6,934.6,3746.0
+ORD-0393,2024-11-10,Asia Pacific,South Korea,Software,SecureCloud,Retail,Consumer,Noah Williams,19,385.66,0.15,6228.41,1385.48,4842.93
+ORD-0394,2025-06-04,Middle East & Africa,Saudi Arabia,Technology,NovaBook Pro,Online,Small Business,Emma Garcia,13,1561.96,0.1,18274.93,12607.14,5667.79
+ORD-0395,2025-04-27,Europe,Sweden,Technology,NovaBook Pro,Partner,Consumer,Ava Morgan,20,1460.26,0,29205.2,17633.2,11572.0
+ORD-0396,2025-09-03,Middle East & Africa,Kenya,Accessories,Arc Mouse,Direct Sales,Government,Ava Morgan,2,68.77,0.15,116.91,44.38,72.53
+ORD-0397,2024-02-04,North America,Mexico,Accessories,Echo Headset,Retail,Consumer,Lucas Martin,20,183.98,0.1,3311.64,1707.0,1604.64
+ORD-0398,2024-03-29,North America,Mexico,Technology,NovaBook Pro,Direct Sales,Small Business,Ava Morgan,9,1560.11,0.05,13338.94,8246.07,5092.87
+ORD-0399,2025-07-26,Europe,Germany,Accessories,Arc Mouse,Retail,Small Business,Oliver Kim,19,61.36,0,1165.84,429.02,736.82
+ORD-0400,2025-02-20,Middle East & Africa,United Arab Emirates,Accessories,Echo Headset,Partner,Consumer,Maya Patel,17,169.43,0,2880.31,1337.39,1542.92
+ORD-0401,2025-07-30,Latin America,Chile,Software,SecureCloud,Direct Sales,Consumer,Oliver Kim,16,418.86,0.05,6366.67,1174.24,5192.43
+ORD-0402,2025-10-10,Europe,Italy,Technology,Orbit Tablet,Direct Sales,Enterprise,Ava Morgan,8,759.88,0,6079.04,3370.8,2708.24
+ORD-0403,2025-02-12,Asia Pacific,Australia,Accessories,Echo Headset,Retail,Government,Lucas Martin,22,192.56,0.1,3812.69,1794.1,2018.59
+ORD-0404,2025-11-30,Asia Pacific,Australia,Accessories,Echo Headset,Retail,Enterprise,Noah Williams,7,183.56,0.15,1092.18,560.21,531.97
+ORD-0405,2024-12-30,North America,United States,Office,Focus Lamp,Direct Sales,Consumer,Ava Morgan,5,123.72,0,618.6,251.05,367.55
+ORD-0406,2025-08-11,Middle East & Africa,South Africa,Accessories,Swift Keyboard,Partner,Government,Noah Williams,9,96.73,0.1,783.51,378.36,405.15
+ORD-0407,2025-03-09,Latin America,Argentina,Technology,Pulse Monitor,Direct Sales,Small Business,Oliver Kim,16,343.46,0,5495.36,2595.52,2899.84
+ORD-0408,2025-12-06,Europe,Netherlands,Software,SecureCloud,Online,Enterprise,Lucas Martin,1,359.72,0.1,323.75,68.42,255.33
+ORD-0409,2024-09-26,Latin America,Chile,Office,Focus Lamp,Partner,Small Business,Oliver Kim,8,112.0,0,896.0,447.04,448.96
+ORD-0410,2025-01-16,Middle East & Africa,Saudi Arabia,Software,TeamFlow,Retail,Small Business,Liam Carter,12,261.81,0,3141.72,532.68,2609.04
+ORD-0411,2024-07-19,Asia Pacific,Australia,Software,SecureCloud,Online,Small Business,Emma Garcia,5,421.2,0.05,2000.7,366.1,1634.6
+ORD-0412,2024-11-03,Middle East & Africa,Saudi Arabia,Accessories,Swift Keyboard,Online,Small Business,Ava Morgan,9,98.08,0.05,838.58,359.37,479.21
+ORD-0413,2024-04-08,North America,Canada,Software,TeamFlow,Partner,Enterprise,Ava Morgan,15,256.54,0,3848.1,664.05,3184.05
+ORD-0414,2025-09-12,Middle East & Africa,United Arab Emirates,Accessories,Arc Mouse,Retail,Enterprise,Lucas Martin,7,64.19,0.1,404.4,152.04,252.36
+ORD-0415,2025-04-02,Asia Pacific,South Korea,Software,TeamFlow,Retail,Small Business,Lucas Martin,3,239.09,0.15,609.68,133.29,476.39
+ORD-0416,2024-06-14,Middle East & Africa,Kenya,Technology,NovaBook Pro,Partner,Government,Maya Patel,11,1400.18,0,15401.98,10030.9,5371.08
+ORD-0417,2024-06-20,Middle East & Africa,South Africa,Software,SecureCloud,Partner,Consumer,Noah Williams,6,425.43,0,2552.58,405.84,2146.74
+ORD-0418,2024-03-06,North America,Canada,Technology,NovaBook Pro,Online,Consumer,Maya Patel,16,1493.05,0.05,22694.36,14034.4,8659.96
+ORD-0419,2025-02-03,Latin America,Argentina,Technology,Pulse Monitor,Retail,Small Business,Sofia Rossi,10,299.42,0.05,2844.49,1778.0,1066.49
+ORD-0420,2025-05-02,Europe,Germany,Accessories,Swift Keyboard,Direct Sales,Small Business,Sofia Rossi,15,105.92,0,1588.8,596.85,991.95
+ORD-0421,2025-10-17,Latin America,Colombia,Software,TeamFlow,Retail,Consumer,Oliver Kim,21,246.42,0.05,4916.08,1009.47,3906.61
+ORD-0422,2024-06-08,Asia Pacific,Singapore,Software,SecureCloud,Partner,Enterprise,Oliver Kim,10,359.62,0,3596.2,712.6,2883.6
+ORD-0423,2024-11-02,Latin America,Brazil,Software,SecureCloud,Retail,Consumer,Lucas Martin,1,418.54,0.1,376.69,73.76,302.93
+ORD-0424,2024-09-12,North America,Canada,Software,SecureCloud,Retail,Enterprise,Liam Carter,6,414.57,0.05,2363.05,434.28,1928.77
+ORD-0425,2025-10-26,Middle East & Africa,Saudi Arabia,Accessories,Swift Keyboard,Online,Small Business,Sofia Rossi,24,97.51,0,2340.24,921.84,1418.4
+ORD-0426,2025-04-08,Asia Pacific,Japan,Software,TeamFlow,Online,Small Business,Ava Morgan,9,254.42,0,2289.78,410.67,1879.11
+ORD-0427,2024-10-15,Latin America,Brazil,Office,ErgoDesk,Retail,Consumer,Sofia Rossi,9,642.61,0,5783.49,3534.57,2248.92
+ORD-0428,2025-03-06,Europe,Spain,Office,CloudChair,Direct Sales,Consumer,Lucas Martin,10,463.17,0,4631.7,2334.0,2297.7
+ORD-0429,2024-09-29,Europe,Sweden,Office,ErgoDesk,Partner,Government,Ava Morgan,13,635.31,0,8259.03,5126.42,3132.61
+ORD-0430,2025-03-29,Europe,Sweden,Office,CloudChair,Online,Small Business,Oliver Kim,8,459.04,0.05,3488.7,1756.0,1732.7
+ORD-0431,2025-10-06,Middle East & Africa,South Africa,Accessories,Echo Headset,Online,Enterprise,Oliver Kim,24,167.12,0.1,3609.79,2109.36,1500.43
+ORD-0432,2025-11-13,Asia Pacific,Australia,Accessories,Echo Headset,Partner,Consumer,Sofia Rossi,7,200.64,0.05,1334.26,562.94,771.32
+ORD-0433,2024-09-05,Asia Pacific,South Korea,Technology,Orbit Tablet,Direct Sales,Small Business,Lucas Martin,1,801.91,0.15,681.62,440.98,240.64
+ORD-0434,2024-04-03,Europe,France,Office,CloudChair,Online,Consumer,Lucas Martin,22,448.8,0.15,8392.56,5419.26,2973.3
+ORD-0435,2025-05-14,North America,Mexico,Technology,NovaBook Pro,Partner,Government,Noah Williams,8,1425.85,0.15,9695.78,7526.24,2169.54
+ORD-0436,2024-05-17,Europe,Netherlands,Software,SecureCloud,Partner,Government,Noah Williams,9,428.9,0.05,3667.09,638.28,3028.81
+ORD-0437,2025-04-24,Latin America,Argentina,Accessories,Swift Keyboard,Retail,Consumer,Sofia Rossi,9,103.89,0.1,841.51,360.81,480.7
+ORD-0438,2025-01-10,Middle East & Africa,South Africa,Accessories,Arc Mouse,Retail,Consumer,Lucas Martin,15,57.05,0.05,812.96,325.35,487.61
+ORD-0439,2024-03-05,Latin America,Argentina,Accessories,Arc Mouse,Direct Sales,Small Business,Maya Patel,22,69.03,0,1518.66,488.18,1030.48
+ORD-0440,2024-04-08,Asia Pacific,India,Accessories,Echo Headset,Retail,Consumer,Noah Williams,17,189.32,0,3218.44,1332.29,1886.15
+ORD-0441,2024-02-02,Europe,Spain,Office,ErgoDesk,Partner,Consumer,Lucas Martin,19,712.88,0.05,12867.48,7413.8,5453.68
+ORD-0442,2024-08-01,North America,Mexico,Technology,NovaBook Pro,Direct Sales,Consumer,Lucas Martin,21,1476.51,0,31006.71,20588.82,10417.89
+ORD-0443,2024-02-29,Latin America,Colombia,Accessories,Arc Mouse,Partner,Consumer,Noah Williams,20,60.34,0,1206.8,401.2,805.6
+ORD-0444,2024-08-24,Latin America,Brazil,Technology,Pulse Monitor,Retail,Small Business,Emma Garcia,18,309.09,0.15,4729.08,2983.86,1745.22
+ORD-0445,2025-04-14,Europe,Sweden,Accessories,Arc Mouse,Retail,Government,Lucas Martin,23,65.29,0,1501.67,514.28,987.39
+ORD-0446,2024-11-18,North America,Mexico,Software,SecureCloud,Direct Sales,Government,Lucas Martin,18,436.13,0,7850.34,1250.1,6600.24
+ORD-0447,2025-07-17,Latin America,Argentina,Office,CloudChair,Direct Sales,Consumer,Ava Morgan,24,417.45,0.05,9517.86,5934.0,3583.86
+ORD-0448,2024-05-18,Asia Pacific,South Korea,Technology,Pulse Monitor,Partner,Consumer,Maya Patel,10,285.61,0,2856.1,1832.6,1023.5
+ORD-0449,2025-04-16,Latin America,Argentina,Technology,NovaBook Pro,Retail,Small Business,Maya Patel,12,1379.27,0.1,14896.12,10868.28,4027.84
+ORD-0450,2024-08-10,Asia Pacific,Japan,Software,TeamFlow,Retail,Government,Liam Carter,24,224.51,0.05,5118.83,1071.6,4047.23
+ORD-0451,2025-08-13,Latin America,Chile,Technology,Pulse Monitor,Partner,Government,Emma Garcia,13,290.07,0,3770.91,2115.62,1655.29
+ORD-0452,2025-10-30,Europe,Sweden,Office,Focus Lamp,Direct Sales,Consumer,Maya Patel,20,127.16,0.15,2161.72,1073.8,1087.92
+ORD-0453,2025-08-01,Latin America,Brazil,Accessories,Arc Mouse,Online,Government,Oliver Kim,5,61.09,0,305.45,109.25,196.2
+ORD-0454,2024-10-23,Latin America,Brazil,Office,CloudChair,Online,Government,Maya Patel,13,408.33,0.05,5042.88,2971.15,2071.73
+ORD-0455,2024-05-13,Europe,Spain,Software,TeamFlow,Retail,Small Business,Noah Williams,5,243.88,0.05,1158.43,219.55,938.88
+ORD-0456,2025-12-02,Europe,Italy,Software,SecureCloud,Partner,Enterprise,Noah Williams,19,365.79,0.05,6602.51,1379.59,5222.92
+ORD-0457,2024-06-22,Asia Pacific,Singapore,Technology,Orbit Tablet,Retail,Government,Ava Morgan,12,751.14,0.05,8563.0,5566.2,2996.8
+ORD-0458,2024-03-28,North America,United States,Accessories,Echo Headset,Retail,Enterprise,Ava Morgan,4,192.22,0.1,691.99,321.96,370.03
+ORD-0459,2025-04-27,Asia Pacific,Japan,Accessories,Swift Keyboard,Retail,Enterprise,Oliver Kim,1,93.71,0,93.71,40.8,52.91
+ORD-0460,2025-08-19,Latin America,Argentina,Technology,Orbit Tablet,Partner,Small Business,Maya Patel,22,738.26,0,16241.72,9301.16,6940.56
+ORD-0461,2025-02-01,Europe,Spain,Technology,NovaBook Pro,Partner,Consumer,Ava Morgan,22,1412.68,0.15,26417.12,21470.02,4947.1
+ORD-0462,2025-06-04,Asia Pacific,India,Office,CloudChair,Online,Small Business,Noah Williams,23,404.17,0.1,8366.32,5242.39,3123.93
+ORD-0463,2024-09-10,Latin America,Colombia,Technology,NovaBook Pro,Retail,Consumer,Lucas Martin,17,1422.43,0.15,20554.11,15854.2,4699.91
+ORD-0464,2025-05-28,Asia Pacific,Singapore,Accessories,Echo Headset,Online,Enterprise,Noah Williams,9,194.83,0.05,1665.8,761.13,904.67
+ORD-0465,2024-05-20,North America,Canada,Software,TeamFlow,Retail,Government,Noah Williams,3,255.83,0.15,652.37,137.4,514.97
+ORD-0466,2025-09-11,Latin America,Argentina,Software,SecureCloud,Retail,Small Business,Sofia Rossi,11,393.84,0.15,3682.4,744.7,2937.7
+ORD-0467,2024-05-28,Asia Pacific,South Korea,Office,CloudChair,Online,Consumer,Sofia Rossi,21,475.84,0,9992.64,5164.32,4828.32
+ORD-0468,2025-02-27,Asia Pacific,Australia,Technology,Orbit Tablet,Partner,Small Business,Noah Williams,14,706.08,0.15,8402.35,6302.52,2099.83
+ORD-0469,2025-09-18,Europe,France,Office,ErgoDesk,Retail,Small Business,Ava Morgan,20,661.89,0,13237.8,7985.0,5252.8
+ORD-0470,2025-05-29,Asia Pacific,Japan,Software,Insight Suite,Direct Sales,Government,Oliver Kim,20,527.15,0,10543.0,1965.4,8577.6
+ORD-0471,2024-02-03,North America,United States,Office,ErgoDesk,Direct Sales,Small Business,Noah Williams,14,729.58,0,10214.12,5197.64,5016.48
+ORD-0472,2025-09-23,North America,United States,Office,CloudChair,Direct Sales,Government,Ava Morgan,16,454.76,0,7276.16,3910.72,3365.44
+ORD-0473,2025-09-18,Latin America,Colombia,Accessories,Swift Keyboard,Online,Consumer,Oliver Kim,24,98.27,0.15,2004.71,954.48,1050.23
+ORD-0474,2025-07-04,Middle East & Africa,United Arab Emirates,Office,Focus Lamp,Online,Small Business,Maya Patel,13,128.43,0.05,1586.11,645.71,940.4
+ORD-0475,2025-04-17,Middle East & Africa,Kenya,Accessories,Swift Keyboard,Retail,Government,Oliver Kim,6,95.43,0,572.58,240.96,331.62
+ORD-0476,2025-08-22,Europe,Netherlands,Technology,NovaBook Pro,Direct Sales,Consumer,Sofia Rossi,23,1492.46,0,34326.58,21183.23,13143.35
+ORD-0477,2024-09-13,Middle East & Africa,Saudi Arabia,Software,Insight Suite,Online,Consumer,Liam Carter,11,550.34,0,6053.74,1115.95,4937.79
+ORD-0478,2025-12-25,Middle East & Africa,South Africa,Technology,Pulse Monitor,Retail,Government,Emma Garcia,13,330.27,0.1,3864.16,2379.65,1484.51
+ORD-0479,2025-08-02,Europe,Sweden,Office,CloudChair,Retail,Consumer,Emma Garcia,22,469.79,0,10335.38,4913.7,5421.68
+ORD-0480,2025-10-03,Asia Pacific,Singapore,Software,SecureCloud,Online,Enterprise,Ava Morgan,6,367.97,0,2207.82,406.2,1801.62
+ORD-0481,2024-01-06,Middle East & Africa,Kenya,Software,TeamFlow,Direct Sales,Government,Emma Garcia,20,263.17,0.1,4737.06,882.8,3854.26
+ORD-0482,2025-07-14,Middle East & Africa,United Arab Emirates,Technology,NovaBook Pro,Online,Small Business,Sofia Rossi,9,1513.73,0,13623.57,8466.12,5157.45
+ORD-0483,2024-05-28,Europe,Netherlands,Accessories,Echo Headset,Partner,Consumer,Ava Morgan,2,189.61,0,379.22,173.66,205.56
+ORD-0484,2025-11-19,Europe,Spain,Office,ErgoDesk,Retail,Government,Lucas Martin,10,708.71,0.1,6378.39,4055.6,2322.79
+ORD-0485,2025-01-12,Europe,Germany,Accessories,Swift Keyboard,Online,Enterprise,Oliver Kim,13,102.99,0.1,1204.98,531.7,673.28
+ORD-0486,2025-06-23,North America,United States,Accessories,Swift Keyboard,Online,Consumer,Liam Carter,14,97.37,0.1,1226.86,568.12,658.74
+ORD-0487,2024-11-20,Middle East & Africa,South Africa,Software,TeamFlow,Retail,Government,Oliver Kim,9,246.02,0,2214.18,437.13,1777.05
+ORD-0488,2024-10-24,Middle East & Africa,Saudi Arabia,Office,Focus Lamp,Online,Small Business,Emma Garcia,7,105.84,0.15,629.75,346.92,282.83
+ORD-0489,2025-07-27,Middle East & Africa,United Arab Emirates,Accessories,Swift Keyboard,Partner,Enterprise,Liam Carter,21,91.43,0.15,1632.03,846.3,785.73
+ORD-0490,2024-04-26,Asia Pacific,Singapore,Accessories,Echo Headset,Online,Small Business,Noah Williams,22,177.6,0.1,3516.48,1806.64,1709.84
+ORD-0491,2024-02-06,Asia Pacific,Singapore,Software,SecureCloud,Partner,Government,Emma Garcia,21,369.39,0.05,7369.33,1426.11,5943.22
+ORD-0492,2025-11-25,Europe,Sweden,Accessories,Arc Mouse,Partner,Enterprise,Liam Carter,11,63.92,0.1,632.81,220.0,412.81
+ORD-0493,2025-01-19,North America,Canada,Technology,Orbit Tablet,Direct Sales,Small Business,Liam Carter,21,739.34,0.1,13973.53,8773.38,5200.15
+ORD-0494,2025-02-27,Asia Pacific,Singapore,Technology,Orbit Tablet,Partner,Small Business,Maya Patel,3,733.98,0.05,2091.84,1265.34,826.5
+ORD-0495,2024-07-25,North America,United States,Accessories,Echo Headset,Retail,Small Business,Lucas Martin,3,181.58,0.05,517.5,234.51,282.99
+ORD-0496,2024-04-10,Middle East & Africa,South Africa,Accessories,Echo Headset,Online,Government,Emma Garcia,17,189.96,0.15,2744.92,1348.27,1396.65
+ORD-0497,2024-02-15,Latin America,Brazil,Technology,Orbit Tablet,Direct Sales,Consumer,Liam Carter,22,784.53,0,17259.66,10059.28,7200.38
+ORD-0498,2024-11-15,Latin America,Chile,Technology,Pulse Monitor,Partner,Enterprise,Lucas Martin,21,340.51,0,7150.71,3540.39,3610.32
+ORD-0499,2024-06-10,Middle East & Africa,United Arab Emirates,Accessories,Echo Headset,Online,Small Business,Lucas Martin,9,169.72,0.1,1374.73,793.08,581.65
+ORD-0500,2025-12-22,Latin America,Chile,Accessories,Echo Headset,Partner,Government,Ava Morgan,10,186.27,0,1862.7,797.3,1065.4
